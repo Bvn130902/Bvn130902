@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Branvn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+👋 Hi, I’m @Branvn.  
+👀 I’m interested in mobile app development and user experience.  
+🌱 I’m currently learning Swift and interface design.  
+💞️ I’d love to collaborate on projects that improve daily life.  
+📫 You can reach me at branvn@gmail.com
+😄 Pronouns: he/they.  
+⚡ Fun fact: I created an app to organize my favorite recipes!  
+
+Looking forward to connecting!
 
 <!---
 Bvn130902/Bvn130902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
